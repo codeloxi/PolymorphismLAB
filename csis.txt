@@ -1,0 +1,33 @@
+Enter holdings to be stored in a list:
+
+Enter B for book, R for recording: 
+Enter book title: 
+Enter book author: 
+Enter call number: 
+Enter B for book, R for recording: 
+Enter recording title: 
+Enter performer: 
+Enter format: M(P3), W(AV), (A)IFF: 
+Enter call number: 
+Enter B for book, R for recording: 
+Enter recording title: 
+Enter performer: 
+Enter format: M(P3), W(AV), (A)IFF: 
+Enter call number: 
+Enter B for book, R for recording: 
+Enter book title: 
+Enter book author: 
+Enter call number: 
+Enter B for book, R for recording: 
+Enter recording title: 
+Enter performer: 
+Enter format: M(P3), W(AV), (A)IFF: 
+Enter call number: 
+
+Here are the holdings: 
+
+BOOK: Rowling, J.K. "Harry Potter" 101
+RECORDING: "Abbey Road" The Beatles (WAV) 401
+RECORDING: "Lone Star State of Mind" Nanci Griffith (AIFF) 402
+BOOK: Adams, Douglas "The Hitchhiker's Guide to the Galaxy" 102
+RECORDING: "Tapestry" Carole King (MP3) 103
